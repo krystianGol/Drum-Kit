@@ -1,4 +1,4 @@
-## DrumKit: Unleash Your Rhythm
+## DrumKit: Unleash Your Rhythm 🥁
 Step into the world of percussion with Drum Kit, where you become the drummer of your own band. This interactive web application transforms your device into a virtual drum set, allowing you to tap into your creativity and groove to the beat.
 
 ## How to run DrumKit ?
