@@ -4,7 +4,7 @@ Step into the world of percussion with Drum Kit, where you become the drummer of
 ## How to run DrumKit ?
 - Open DrumKit in Visual Studio Code
 - Right-click anywhere in your HTML file
-- Select Open with Live Server. This will open your default web browser and display DrumKit file.
+- Select Open with Live Server. This will open your default web browser and display DrumKit.
 
 ## Application 👇
 
